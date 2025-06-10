@@ -1,4 +1,4 @@
-# jeneen_analytics_portfolio
+# Jeneen's Analytics Portfolio
 Portfolio containing projects that I have created using data visualization and analytics.
 
 ## Twitch Top 100 Streamers of November 2022
@@ -15,4 +15,5 @@ In order to answer these questions I tried to come up with the most digestable w
 ### What I Would Change:
 If I had more time when creating this visualization, I would have loved to represent the top games that were played. This seems like crucial information that I could learn from as a streamer and be able to apply to my own content. Taking that even a step further, I would like to see how each game affects a streamers viewership. At the time of making this visualization I had labeled any "non-mature" streamer as "family friendly". If I ever do get the opportunity to recreate this visualization again I would like to instead label it as "non-mature" because not all streamers that do not identify as mature would call themselves family-friendly. The last change I would like to implement if I ever could is to instead broaden this project to the top 100 streamers of the past year instead of just the past month.
 
-[Top 100 streamers in November of 2022.pdf](https://github.com/user-attachments/files/20664644/Top.100.streamers.in.November.of.2022.pdf)
+
+![Top 100 streamers in November of 2022](https://github.com/user-attachments/assets/3cd34b20-1443-4b4b-b44c-8d39a73f554a)
